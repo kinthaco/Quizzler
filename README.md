@@ -25,7 +25,7 @@ This project helped me explore:
 2.Inheritance: Structuring classes to avoid code duplication.
 3.Privacy: Using controlled access to attributes and methods.
 
-#Future Improvements
+# Future Improvements
 1.Add a GUI for better user interaction.
 2.Expand question categories and difficulty levels.
 3.Implement a database to store user progress.
